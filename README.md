@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @timothyonoja10
+- 👋 Hi, I’m Timothy Onoja. @timothyonoja10
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on software projects
